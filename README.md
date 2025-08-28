@@ -13,7 +13,7 @@ Here are some of the technologies/languages I am somewhat comfortable to work wi
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Pseudocode](https://img.shields.io/badge/-Pseudocode-808080?style=for-the-badge&logo=codepen&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
 ### Featured Projects
