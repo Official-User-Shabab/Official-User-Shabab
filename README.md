@@ -1,51 +1,58 @@
-# Welcome
+# Welcome to My GitHub  
 
-I'm a student and am excited in studying Computer Science. I tend to just build applications for random stuff.
-
----
-
-### My Tech Stack
-
-Here are some of the technologies/languages I am somewhat comfortable to work with:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Pseudocode](https://img.shields.io/badge/-Pseudocode-808080?style=for-the-badge&logo=codepen&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
----
-
-### Featured Projects
-
-**[Rubik's cube](https://official-user-shabab.github.io/Rubix-Cube/)** - A simulation where you can play with the Rubik's cube.
-
-**[A Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** - A basic app to keep track of events or tasks.
-
-**[Encryption App](https://github.com/Official-User-Shabab/Encode-Decode-1)** - A basic CLI encryptor and decryptor to mask communications.
-
-**[Lang-O-Meter](https://github.com/Official-User-Shabab/Lang-O-Meter)** - A CLI app that finds the proportion of languages a Github user codes in publicly.
+Hi, I'm a student passionate about Computer Science.  
+I love exploring concepts, experimenting with code and building projects that solve random but fun problems.  
 
 ---
 
-### GitHub Stats
+## Tech Stack  
 
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-User-Shabab&layout=compact&&langs_count=8"/>
+Here are some of the technologies and tools I enjoy working with:  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pseudocode-808080?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
 ---
 
-### Interests and Hobbies
+## Featured Projects  
 
-- Programming
-- Research and documenting
-- Cybersecurity
-- Card games
-- Board games
-- Walking
-- Cycling
-- Taekwondo
-- Badminton
-- Arts and Crafts
-- Youtube and Video editing
-- Knot tying
-- Maps
+- **[Rubik's Cube](https://official-user-shabab.github.io/Rubix-Cube/)** – A 3D simulation where you can play with and manipulate a Rubik’s cube.  
+- **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks.  
+- **[Encryption CLI](https://github.com/Official-User-Shabab/Encode-Decode-1)** – A simple encryptor & decryptor for masking communications.  
+- **[Lang-O-Meter](https://github.com/Official-User-Shabab/Lang-O-Meter)** – A CLI tool that analyses language proportions of a GitHub user.
+
+---
+
+## GitHub Stats  <img src="https://visitor-badge.laobi.icu/badge?page_id=Official-User-Shabab&style=flat-square&label=Profile+Views&color=blue" />
+
+<details>
+  <summary>Top Languages</summary>
+  <p align="center">
+    <img src="https://github-readme-stats-nine-amber-67.vercel.app/api/top-langs/?username=Official-User-Shabab&layout=compact&theme=radical" />
+  </p>
+</details>
+
+<details>
+  <summary>Contribution Graph</summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Official-User-Shabab&theme=react-dark" />
+  </p>
+</details>
+
+---
+
+## Interests & Hobbies
+
+<p align="center">
+Programming | Cybersecurity | Research & Documentation | Card & Board Games | Cycling | Walking | Taekwondo | Badminton | Arts & Crafts | Knot Tying | YouTube & Video Editing | Maps
+</p>
+
+---
+
+⭐️ *Thanks for stopping by! Feel free to check out my repositories and projects.*
