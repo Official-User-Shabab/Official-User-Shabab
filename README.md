@@ -38,11 +38,13 @@ Here are some of the technologies/languages I am somewhat comfortable to work wi
 
 - Programming
 - Research and documenting
+- Cybersecurity
 - Card games
 - Board games
 - Walking
 - Cycling
 - Taekwondo
+- Badminton
 - Arts and Crafts
 - Youtube and Video editing
 - Knot tying
