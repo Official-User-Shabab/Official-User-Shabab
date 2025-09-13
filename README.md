@@ -1,13 +1,12 @@
 # Welcome
 
-Hi, I'm a student interested in Computer Science.  
-I love exploring concepts, experimenting with code and building projects that solve random but fun problems.  
+I'm a student interested in Computer Science. I love exploring concepts, experimenting with code and building projects that solve random but fun problems.  
 
 ---
 
-## Tech Stack  
+## Languages
 
-Here are some of the technologies and tools I enjoy working with:  
+These are some of the technologies and tools I enjoy working with:  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,7 +23,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 - **[Rubik's Cube](https://official-user-shabab.github.io/Rubix-Cube/)** – A 3D simulation where you can play with and manipulate a Rubik’s cube.  
 - **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks.
-- **[Statistics Calculator for Distributions](https://github.com/Official-User-Shabab/Statistics-Distibutions-Calculator)** - A simple, browser-based calculator for common probability distributions.
+- **[Statistics Calculator for Distributions](https://official-user-shabab.github.io/Statistics-Distibutions-Calculator/)** - A simple, browser-based calculator for common probability distributions.
 - **[Encryption CLI](https://github.com/Official-User-Shabab/Encode-Decode-1)** – A simple encryptor & decryptor for masking communications.  
 - **[Lang-O-Meter](https://github.com/Official-User-Shabab/Lang-O-Meter)** – A CLI tool that analyses language proportions of a GitHub user.
 
@@ -53,7 +52,7 @@ Here are some of the technologies and tools I enjoy working with:
 ## Interests & Hobbies
 
 <p align="center">
-Programming | Cybersecurity | Research & Documentation | Card & Board Games | Cycling | Walking | Taekwondo | Badminton | Arts & Crafts | Knot Tying | YouTube & Video Editing | Maps
+Programming | Cybersecurity | Research & Documentation | Maths | Card & Board Games | Cycling | Walking | Taekwondo | Badminton | Arts & Crafts | Knot Tying | YouTube & Video Editing | Maps
 </p>
 
 ---
