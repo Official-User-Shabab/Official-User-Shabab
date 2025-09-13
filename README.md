@@ -1,6 +1,6 @@
-# Welcome to My GitHub  
+# Welcome
 
-Hi, I'm a student passionate about Computer Science.  
+Hi, I'm a student interested in Computer Science.  
 I love exploring concepts, experimenting with code and building projects that solve random but fun problems.  
 
 ---
@@ -23,13 +23,16 @@ Here are some of the technologies and tools I enjoy working with:
 ## Featured Projects  
 
 - **[Rubik's Cube](https://official-user-shabab.github.io/Rubix-Cube/)** – A 3D simulation where you can play with and manipulate a Rubik’s cube.  
-- **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks.  
+- **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks.
+- **[Statistics Calculator for Distributions](https://github.com/Official-User-Shabab/Statistics-Distibutions-Calculator)** - A simple, browser-based calculator for common probability distributions.
 - **[Encryption CLI](https://github.com/Official-User-Shabab/Encode-Decode-1)** – A simple encryptor & decryptor for masking communications.  
 - **[Lang-O-Meter](https://github.com/Official-User-Shabab/Lang-O-Meter)** – A CLI tool that analyses language proportions of a GitHub user.
 
 ---
 
-## GitHub Stats  <img src="https://visitor-badge.laobi.icu/badge?page_id=Official-User-Shabab&style=flat-square&label=Profile+Views&color=blue" />
+## GitHub Stats
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Official-User-Shabab&style=flat-square&label=Profile+Views&color=blue" />
 
 <details>
   <summary>Top Languages</summary>
@@ -55,4 +58,4 @@ Programming | Cybersecurity | Research & Documentation | Card & Board Games | Cy
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to check out my repositories and projects.*
+⭐️ *Here's a golden star as a thanks for stopping by! Feel free to check out my repositories and projects.*
