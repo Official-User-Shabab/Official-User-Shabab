@@ -6,6 +6,8 @@ I'm a student interested in Computer Science. I love exploring concepts, experim
 
 ## Languages
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 These are some of the technologies and tools I enjoy working with:  
 
 <p align="center">
@@ -21,11 +23,15 @@ These are some of the technologies and tools I enjoy working with:
 
 ## Featured Projects  
 
-- **[Rubik's Cube](https://official-user-shabab.github.io/Rubix-Cube/)** – A 3D simulation where you can play with and manipulate a Rubik’s cube.  
-- **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks.
-- **[Statistics Calculator for Distributions](https://official-user-shabab.github.io/Statistics-Distibutions-Calculator/)** - A simple, browser-based calculator for common probability distributions.
-- **[Encryption CLI](https://github.com/Official-User-Shabab/Encode-Decode-1)** – A simple encryptor & decryptor for masking communications.  
-- **[Lang-O-Meter](https://github.com/Official-User-Shabab/Lang-O-Meter)** – A CLI tool that analyses language proportions of a GitHub user.
+- **[Rubik's Cube](https://official-user-shabab.github.io/Rubix-Cube/)** – A 3D simulation where you can play with and manipulate a Rubik’s cube. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+
+- **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
+
+- **[Distributions Calc](https://official-user-shabab.github.io/Statistics-Distibutions-Calculator/)** - A simple, browser-based calculator for common probability distributions. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+
+- **[Systems of Equations Calc](https://github.com/Official-User-Shabab/Linear-Systems-of-Equations)** - A CLI calculator for solving linear systems of equations. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="20" height="20"/>
+
+- **[Encryption CLI](https://github.com/Official-User-Shabab/Encode-Decode-1)** – A simple encryptor & decryptor for masking communications. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
 
 ---
 
