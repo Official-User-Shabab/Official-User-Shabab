@@ -1,6 +1,6 @@
 # Welcome
 
-I'm a student interested in Computer Science. I love exploring concepts, experimenting with code and building projects that solve random but fun problems.  
+I'm a student interested in Technology. I love exploring concepts, experimenting with code and building projects that a variety of problems.
 
 ---
 
@@ -12,11 +12,10 @@ These are some of the technologies and tools I enjoy working with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pseudocode-808080?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
@@ -26,8 +25,6 @@ These are some of the technologies and tools I enjoy working with:
 - **[Rubik's Cube](https://official-user-shabab.github.io/Rubix-Cube/)** – A 3D simulation where you can play with and manipulate a Rubik’s cube. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
 
 - **[Planner App](https://github.com/Official-User-Shabab/Basic-Planner-App)** – Keep track of your daily events or tasks. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
-
-- **[Distributions Calc](https://official-user-shabab.github.io/Statistics-Distibutions-Calculator/)** - A simple, browser-based calculator for common probability distributions. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
 
 - **[Systems of Equations Calc](https://github.com/Official-User-Shabab/Linear-Systems-of-Equations)** - A CLI calculator for solving linear systems of equations. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="20" height="20"/>
 
@@ -55,12 +52,5 @@ These are some of the technologies and tools I enjoy working with:
 
 ---
 
-## Interests & Hobbies
-
-<p align="center">
-Programming | Cybersecurity | Research & Documentation | Maths | Card & Board Games | Cycling | Walking | Taekwondo | Badminton | Arts & Crafts | Knot Tying | YouTube & Video Editing | Maps
-</p>
-
----
 
 ⭐️ *Here's a golden star as a thanks for stopping by! Feel free to check out my repositories and projects.*
